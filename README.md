@@ -1,2 +1,5 @@
 # hello-world
-A new repository
+A new repository from ovi the superman!
+I like software development, codes and data analysis...
+I am interested mostly in developing educational application programms for learners...
+Hope you will like my repository.
